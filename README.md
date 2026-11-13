@@ -2,7 +2,7 @@
 
 # ogvrp portal
 
-little app i made for ogvrp staff to review civilian apps way faster.
+little app i made for ogvrp staff to review civilian apps way faster. (not being used, sadly)
 
 ### features
 
