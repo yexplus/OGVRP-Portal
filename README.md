@@ -11,6 +11,7 @@ little app i made for ogvrp staff to review civilian apps way faster.
 * **dark & light theme:** works with both dark and light modes, fitted to windows 11 style.
 * **auto-updater:** automatically checks github for new versions on startup and updates itself.
 * **portable:** just one `.exe` file. no installer, no setup.
+* and more!
 
 ### how to use
 
